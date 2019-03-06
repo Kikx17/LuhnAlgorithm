@@ -1,0 +1,7 @@
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe.config
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.pdb
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csprojAssemblyReference.cache
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb
